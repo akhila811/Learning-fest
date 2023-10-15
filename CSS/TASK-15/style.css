@@ -1,0 +1,46 @@
+body{
+    background-image: url(image2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 380px;
+    
+}
+.signup{
+    background-color: white;
+    border: 1px;
+    margin-top: 25px;
+    margin-left: 430px;
+    height: 500px;
+    width: 390px;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+    height: 10px;
+    font-family: sans-serif;
+}
+label{
+    font-family: sans-serif ;
+    font-weight: bold;
+    padding-left: 10px;
+}
+input{
+    width: 340px;
+    margin-left: 10px;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:rgb(129, 123, 123);
+    background-color: #f1f1f1;
+    border: transparent;
+    font-size: 10px;
+}
+.Register{
+    width: 370px;
+    height: 30px;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+}
